@@ -1,4 +1,5 @@
 class Solution {
+	
     public int deleteAndEarn(int[] nums) {
         int[] count = new int[10001];
         for (int num: nums) {
